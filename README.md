@@ -56,13 +56,11 @@ streamlit run app.py
 
 ## Project Structure
 IPL_Project/
-│
-├── app.py
-├── matches.csv
-├── deliveries.csv
-├── IPL_Analysis.ipynb
-├── README.md
-└── Presentation (PPT/PDF)
+1. app.py
+2. matches.csv
+3. deliveries.csv
+4. IPL_Analysis.ipynb
+5. README.md
 
 ## Conclusion
 The analysis reveals that IPL performance is often dominated by a few key players and teams. While the toss provides a slight advantage, match outcomes are more strongly influenced by performance during different phases of the game, especially the death overs.
